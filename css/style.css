@@ -1,0 +1,11 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+
+#intro {
+    background-image: url('https://images.pexels.com/photos/6565123/pexels-photo-6565123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-size: cover;
+}
